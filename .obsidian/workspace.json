@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8deaf335f6b7f109",
+            "id": "1d16e84026858930",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,29 +156,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8deaf335f6b7f109",
+  "active": "1d16e84026858930",
   "lastOpenFiles": [
+    "GraphView.png",
+    "EAFIT/Estructuras Discretas/Teoremas/Teorema 6.2.2.md",
+    "EAFIT/Física II/Términos/Ley de Coulomb.md",
+    "EAFIT/Física II/Clases/Clase 1.md",
+    "EAFIT/Estructuras Discretas/7.1 Funciones definidas sobre conjuntos generales.md",
+    "EAFIT/Estructuras Discretas/Excalidraw/Ejemplo-Definicion-de-Funcion.excalidraw.md",
+    "EAFIT/Estructuras Discretas/6.3 Refutaciones y demostraciones algebraicas.md",
+    "EAFIT/Estructuras Discretas/6.2 Propiedades de conjuntos.md",
+    "README.md",
+    "EAFIT/Física II/Términos",
+    "EAFIT/Física II/Clases",
+    "EAFIT/Física II",
+    "EAFIT/Estructuras Discretas/Teoremas/Teorema 7.1.1.md",
+    "EAFIT/Estructuras Discretas/Teoremas",
+    "EAFIT/Estructuras Discretas/Excalidraw",
+    "EAFIT/Estructuras Discretas",
+    "EAFIT/AnalisisNumerico/Clases/Clase 1.md",
+    "EAFIT/AnalisisNumerico/Clases",
+    "EAFIT/AnalisisNumerico",
+    "EAFIT",
     "LICENSE",
     "Book-Notes/Practical Stoicism. Your Action Guide On How To Implement The Stoic Philosophy Into Your Own Life.md",
     "Book-Notes/Assets/PracticalStoicism.png",
-    "Book-Notes/Assets",
-    "Book-Notes",
     "Artificial-Intelligence-Notes/LLMs.md",
     "README.md.md",
-    "README.md",
     "Excalidraw/Ejemplo-Definicion-de-Funcion.excalidraw.md",
     "Teoremas/Teorema 7.1.1.md",
     "7.1 Funciones definidas sobre conjuntos generales.md",
     "6.2 Propiedades de conjuntos.md",
     "Teoremas/Teorema 6.2.2.md",
     "6.3 Refutaciones y demostraciones algebraicas.md",
-    "Excalidraw",
     "Excalidraw/Drawing 2023-03-02 10.57.46.excalidraw.md",
-    "Teoremas",
-    "Excalidraw/Drawing 2023-03-02 10.57.46.excalidraw.png",
-    "6.3 Refutaciones y demostraciones algebraicas",
-    "6.2 Propiedades de conjuntos",
-    "6.1",
-    "Assets"
+    "Excalidraw/Drawing 2023-03-02 10.57.46.excalidraw.png"
   ]
 }
