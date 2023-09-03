@@ -11,11 +11,48 @@
             "id": "61911cacda752620",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "115080be5b61f71f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacking-Notes/Try Hack Me/Red Team Path/1. Red Team Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a806b38d49354b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Platzi/aprender-data-ia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45554802c95498fc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,19 +185,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61911cacda752620",
+  "active": "45554802c95498fc",
   "lastOpenFiles": [
-    "Artificial-Intelligence-Notes/deeplearning.ai/ChatGPT Prompt Engineering for Developers.md",
+    "Courses/Platzi/aprender-data-ia.md",
+    "Hacking-Notes/Try Hack Me/Red Team Path/1. Red Team Fundamentals.md",
+    "Hacking-Notes/Try Hack Me/Red Team Path/Network Security Solutions.md",
     "Programming/Python/Python.md",
+    "Glossary/Machine Learning.md",
+    "EAFIT/Estructuras Discretas/7.1 Funciones definidas sobre conjuntos generales.md",
+    "Glossary/Ley de Coulomb.md",
+    "Artificial-Intelligence-Notes/deeplearning.ai/ChatGPT Prompt Engineering for Developers.md",
+    "Glossary/LLMs.md",
+    "Glossary",
+    "README.md",
+    "Courses/Platzi",
+    "Courses",
     "Hacking-Notes/Hacking NASA.md",
     "Programming/Python",
     "Programming",
-    "README.md",
     "GraphView.png",
     "EAFIT/Estructuras Discretas/Teoremas/Teorema 6.2.2.md",
-    "EAFIT/Física II/Términos/Ley de Coulomb.md",
     "EAFIT/Física II/Clases/Clase 1.md",
-    "EAFIT/Estructuras Discretas/7.1 Funciones definidas sobre conjuntos generales.md",
     "EAFIT/Estructuras Discretas/Excalidraw/Ejemplo-Definicion-de-Funcion.excalidraw.md",
     "EAFIT/Estructuras Discretas/6.3 Refutaciones y demostraciones algebraicas.md",
     "EAFIT/Estructuras Discretas/6.2 Propiedades de conjuntos.md",
@@ -170,13 +215,9 @@
     "EAFIT/Estructuras Discretas/Teoremas/Teorema 7.1.1.md",
     "EAFIT/Estructuras Discretas/Teoremas",
     "EAFIT/Estructuras Discretas/Excalidraw",
-    "EAFIT/Estructuras Discretas",
     "EAFIT/AnalisisNumerico/Clases/Clase 1.md",
-    "EAFIT/AnalisisNumerico/Clases",
-    "EAFIT/AnalisisNumerico",
     "Book-Notes/Practical Stoicism. Your Action Guide On How To Implement The Stoic Philosophy Into Your Own Life.md",
     "Book-Notes/Assets/PracticalStoicism.png",
-    "Artificial-Intelligence-Notes/LLMs.md",
     "README.md.md",
     "Excalidraw/Ejemplo-Definicion-de-Funcion.excalidraw.md",
     "Teoremas/Teorema 7.1.1.md",
@@ -184,7 +225,6 @@
     "6.2 Propiedades de conjuntos.md",
     "Teoremas/Teorema 6.2.2.md",
     "6.3 Refutaciones y demostraciones algebraicas.md",
-    "Excalidraw/Drawing 2023-03-02 10.57.46.excalidraw.md",
     "Excalidraw/Drawing 2023-03-02 10.57.46.excalidraw.png"
   ]
 }

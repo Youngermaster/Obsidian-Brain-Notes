@@ -10,6 +10,7 @@ The idea of this project is to store all my notes from several topics in Obsidia
 - DevOps.
 - Maths.
 - Book Notes.
+- Courses.
 
 ## 📈 Current Graph View (The Graph can be bigger than the picture)
 ![Project Graph View](GraphView.png)

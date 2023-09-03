@@ -6,17 +6,53 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:Platzi",
+      "color": {
+        "a": 1,
+        "rgb": 7722808
+      }
+    },
+    {
+      "query": "tag:AI",
+      "color": {
+        "a": 1,
+        "rgb": 1411316
+      }
+    },
+    {
+      "query": "tag:Maths",
+      "color": {
+        "a": 1,
+        "rgb": 10506976
+      }
+    },
+    {
+      "query": "tag:Hacking",
+      "color": {
+        "a": 1,
+        "rgb": 16326406
+      }
+    },
+    {
+      "query": "tag:Programming",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.5897609166912672,
-  "close": true
+  "scale": 0.9488610171069092,
+  "close": false
 }
