@@ -1,0 +1,11 @@
+**LLM** stands for "**Large Language Model**" and refers to a type of artificial intelligence model designed to generate and understand human-like text. LLMs are trained on large datasets consisting of vast amounts of written text, which enables them to learn patterns, grammar, and contextual information.
+
+LLMs are capable of performing various language-related tasks, such as answering questions, generating coherent paragraphs, summarizing text, translating languages, and more. They have been widely used in natural language processing applications, chatbots, virtual assistants, content generation, and other text-based tasks.
+
+Some notable examples of LLMs include:
+
+1.  GPT-3 (Generative Pre-trained Transformer 3): Developed by OpenAI, GPT-3 is one of the most well-known and powerful language models to date. It has 175 billion parameters and can perform a wide range of natural language processing tasks, including text completion, language translation, question answering, and more.
+2.  BERT (Bidirectional Encoder Representations from Transformers): Developed by Google, BERT is a pre-trained language model that has significantly advanced natural language understanding tasks. BERT uses a transformer architecture and bidirectional training to capture the context and meaning of words in a sentence.
+3.  XLNet: Similar to BERT, XLNet is another popular language model that uses an autoregressive approach. It addresses the limitation of BERT in terms of capturing dependencies by considering all permutations of words during training.
+4.  Transformer-XL: This model focuses on learning longer-term dependencies in text by introducing a segment-level recurrence mechanism. It has been particularly effective for tasks requiring understanding of longer contexts.
+5.  T5 (Text-To-Text Transfer Transformer): T5 is a versatile language model developed by Google. It is trained using a "text-to-text" framework, where various natural language processing tasks are reformulated as text generation tasks. T5 has been used for tasks like summarization, translation, question answering, and more.
