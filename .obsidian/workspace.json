@@ -8,59 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f985a7003c84067",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c49784119b1fe088",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "8deaf335f6b7f109",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "fe4e0e2435f92e88",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
-          },
-          {
-            "id": "25e64127baba92a3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5bc46664c81e9b49",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Ejemplo-Definicion-de-Funcion.excalidraw.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -189,11 +152,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe4e0e2435f92e88",
+  "active": "8deaf335f6b7f109",
   "lastOpenFiles": [
+    "LICENSE",
+    "Book-Notes/Practical Stoicism. Your Action Guide On How To Implement The Stoic Philosophy Into Your Own Life.md",
+    "Book-Notes/Assets/PracticalStoicism.png",
+    "Book-Notes/Assets",
+    "Book-Notes",
+    "Artificial-Intelligence-Notes/LLMs.md",
+    "README.md.md",
+    "README.md",
     "Excalidraw/Ejemplo-Definicion-de-Funcion.excalidraw.md",
     "Teoremas/Teorema 7.1.1.md",
     "7.1 Funciones definidas sobre conjuntos generales.md",
