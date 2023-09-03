@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d16e84026858930",
+            "id": "61911cacda752620",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,8 +148,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1d16e84026858930",
+  "active": "61911cacda752620",
   "lastOpenFiles": [
+    "Artificial-Intelligence-Notes/deeplearning.ai/ChatGPT Prompt Engineering for Developers.md",
+    "Programming/Python/Python.md",
+    "Hacking-Notes/Hacking NASA.md",
+    "Programming/Python",
+    "Programming",
+    "README.md",
     "GraphView.png",
     "EAFIT/Estructuras Discretas/Teoremas/Teorema 6.2.2.md",
     "EAFIT/Física II/Términos/Ley de Coulomb.md",
@@ -166,7 +164,6 @@
     "EAFIT/Estructuras Discretas/Excalidraw/Ejemplo-Definicion-de-Funcion.excalidraw.md",
     "EAFIT/Estructuras Discretas/6.3 Refutaciones y demostraciones algebraicas.md",
     "EAFIT/Estructuras Discretas/6.2 Propiedades de conjuntos.md",
-    "README.md",
     "EAFIT/Física II/Términos",
     "EAFIT/Física II/Clases",
     "EAFIT/Física II",
@@ -177,8 +174,6 @@
     "EAFIT/AnalisisNumerico/Clases/Clase 1.md",
     "EAFIT/AnalisisNumerico/Clases",
     "EAFIT/AnalisisNumerico",
-    "EAFIT",
-    "LICENSE",
     "Book-Notes/Practical Stoicism. Your Action Guide On How To Implement The Stoic Philosophy Into Your Own Life.md",
     "Book-Notes/Assets/PracticalStoicism.png",
     "Artificial-Intelligence-Notes/LLMs.md",
