@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Programming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Courses/Platzi/aprender-data-ia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Courses/Platzi/aprender-data-ia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Courses/Platzi/aprender-data-ia.md"
+              }
             }
           }
         ]
@@ -185,10 +189,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "45554802c95498fc",
+  "active": "8a806b38d49354b2",
   "lastOpenFiles": [
-    "Courses/Platzi/aprender-data-ia.md",
     "Hacking-Notes/Try Hack Me/Red Team Path/1. Red Team Fundamentals.md",
+    "Courses/Platzi/aprender-data-ia.md",
+    "README.md",
     "Hacking-Notes/Try Hack Me/Red Team Path/Network Security Solutions.md",
     "Programming/Python/Python.md",
     "Glossary/Machine Learning.md",
@@ -197,7 +202,6 @@
     "Artificial-Intelligence-Notes/deeplearning.ai/ChatGPT Prompt Engineering for Developers.md",
     "Glossary/LLMs.md",
     "Glossary",
-    "README.md",
     "Courses/Platzi",
     "Courses",
     "Hacking-Notes/Hacking NASA.md",
