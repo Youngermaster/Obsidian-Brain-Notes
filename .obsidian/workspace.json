@@ -44,6 +44,48 @@
             }
           },
           {
+            "id": "56fc77bafb6ac23d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/DrawingTest.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "21af09ac14e83837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9a413cd614709c1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b64e27aec02f2230",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "45554802c95498fc",
             "type": "leaf",
             "state": {
@@ -52,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Programming",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Platzi/aprender-data-ia.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Platzi/aprender-data-ia.md",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +208,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Platzi/aprender-data-ia.md"
+                "file": "Test.md"
+              }
+            }
+          },
+          {
+            "id": "a3272bfc186fd870",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -189,13 +241,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a806b38d49354b2",
+  "active": "21af09ac14e83837",
   "lastOpenFiles": [
-    "Hacking-Notes/Try Hack Me/Red Team Path/1. Red Team Fundamentals.md",
+    "Excalidraw/DrawingTest.excalidraw.md",
+    "Test.md",
+    "Programming/Python/Python.md",
     "Courses/Platzi/aprender-data-ia.md",
+    "Pasted Image 20231220211532_615.png",
+    "Excalidraw",
+    "Hacking-Notes/Try Hack Me/Red Team Path/1. Red Team Fundamentals.md",
     "README.md",
     "Hacking-Notes/Try Hack Me/Red Team Path/Network Security Solutions.md",
-    "Programming/Python/Python.md",
     "Glossary/Machine Learning.md",
     "EAFIT/Estructuras Discretas/7.1 Funciones definidas sobre conjuntos generales.md",
     "Glossary/Ley de Coulomb.md",
@@ -218,7 +274,6 @@
     "EAFIT/Física II",
     "EAFIT/Estructuras Discretas/Teoremas/Teorema 7.1.1.md",
     "EAFIT/Estructuras Discretas/Teoremas",
-    "EAFIT/Estructuras Discretas/Excalidraw",
     "EAFIT/AnalisisNumerico/Clases/Clase 1.md",
     "Book-Notes/Practical Stoicism. Your Action Guide On How To Implement The Stoic Philosophy Into Your Own Life.md",
     "Book-Notes/Assets/PracticalStoicism.png",
@@ -226,9 +281,6 @@
     "Excalidraw/Ejemplo-Definicion-de-Funcion.excalidraw.md",
     "Teoremas/Teorema 7.1.1.md",
     "7.1 Funciones definidas sobre conjuntos generales.md",
-    "6.2 Propiedades de conjuntos.md",
-    "Teoremas/Teorema 6.2.2.md",
-    "6.3 Refutaciones y demostraciones algebraicas.md",
     "Excalidraw/Drawing 2023-03-02 10.57.46.excalidraw.png"
   ]
 }
