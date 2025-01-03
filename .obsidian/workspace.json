@@ -8,93 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61911cacda752620",
+            "id": "026c2dc2c25fb962",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Glossary/Machine Learning.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "115080be5b61f71f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hacking-Notes/Try Hack Me/Red Team Path/1. Red Team Fundamentals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a806b38d49354b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Platzi/aprender-data-ia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56fc77bafb6ac23d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/DrawingTest.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "21af09ac14e83837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9a413cd614709c1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b64e27aec02f2230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Python/Python.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Machine Learning"
             }
           },
           {
             "id": "45554802c95498fc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Typescript/Watch Mode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Watch Mode"
+            }
+          },
+          {
+            "id": "f135b242be2235f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book-Notes/Practical Stoicism. Your Action Guide On How To Implement The Stoic Philosophy Into Your Own Life.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practical Stoicism. Your Action Guide On How To Implement The Stoic Philosophy Into Your Own Life"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -129,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -137,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -145,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -168,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Programming/Typescript/Watch Mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +140,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Watch Mode"
             }
           },
           {
@@ -185,10 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Programming/Typescript/Watch Mode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Watch Mode"
             }
           },
           {
@@ -198,8 +166,10 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -208,8 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
-              }
+                "file": "Programming/Typescript/Watch Mode.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Watch Mode"
             }
           },
           {
@@ -218,16 +190,32 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
-              }
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "417a451881e1e186",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Programming/Typescript/Watch Mode.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Watch Mode"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,18 +229,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21af09ac14e83837",
+  "active": "45554802c95498fc",
   "lastOpenFiles": [
-    "Excalidraw/DrawingTest.excalidraw.md",
-    "Test.md",
-    "Programming/Python/Python.md",
-    "Courses/Platzi/aprender-data-ia.md",
-    "Pasted Image 20231220211532_615.png",
-    "Excalidraw",
-    "Hacking-Notes/Try Hack Me/Red Team Path/1. Red Team Fundamentals.md",
-    "README.md",
-    "Hacking-Notes/Try Hack Me/Red Team Path/Network Security Solutions.md",
     "Glossary/Machine Learning.md",
+    "Glossary/RLHF.md",
+    "Programming/Python/Python.md",
+    "Book-Notes/Practical Stoicism. Your Action Guide On How To Implement The Stoic Philosophy Into Your Own Life.md",
+    "Programming/Typescript/Typescript.md",
+    "Programming/Typescript/Watch Mode.md",
+    "Courses/Platzi/aprender-data-ia.md",
+    "Excalidraw/Drawing 2025-01-03 12.44.21.excalidraw.md",
+    "README.md",
+    "Hacking-Notes/Try Hack Me/Red Team Path/1. Red Team Fundamentals.md",
+    "Excalidraw/DrawingTest.excalidraw.md",
+    "EAFIT/AnalisisNumerico/Clases/Clase 1.md",
+    "Programming/Typescript",
+    "Languages Learning/German",
+    "Languages Learning/English",
+    "Languages Learning",
+    "icon.jpg",
+    "Pasted Image 20231220211532_615.png",
+    "Test.md",
+    "Excalidraw",
+    "Hacking-Notes/Try Hack Me/Red Team Path/Network Security Solutions.md",
     "EAFIT/Estructuras Discretas/7.1 Funciones definidas sobre conjuntos generales.md",
     "Glossary/Ley de Coulomb.md",
     "Artificial-Intelligence-Notes/deeplearning.ai/ChatGPT Prompt Engineering for Developers.md",
@@ -269,18 +268,9 @@
     "EAFIT/Estructuras Discretas/Excalidraw/Ejemplo-Definicion-de-Funcion.excalidraw.md",
     "EAFIT/Estructuras Discretas/6.3 Refutaciones y demostraciones algebraicas.md",
     "EAFIT/Estructuras Discretas/6.2 Propiedades de conjuntos.md",
-    "EAFIT/Física II/Términos",
-    "EAFIT/Física II/Clases",
-    "EAFIT/Física II",
     "EAFIT/Estructuras Discretas/Teoremas/Teorema 7.1.1.md",
-    "EAFIT/Estructuras Discretas/Teoremas",
-    "EAFIT/AnalisisNumerico/Clases/Clase 1.md",
-    "Book-Notes/Practical Stoicism. Your Action Guide On How To Implement The Stoic Philosophy Into Your Own Life.md",
     "Book-Notes/Assets/PracticalStoicism.png",
     "README.md.md",
-    "Excalidraw/Ejemplo-Definicion-de-Funcion.excalidraw.md",
-    "Teoremas/Teorema 7.1.1.md",
-    "7.1 Funciones definidas sobre conjuntos generales.md",
     "Excalidraw/Drawing 2023-03-02 10.57.46.excalidraw.png"
   ]
 }
