@@ -1,0 +1,1 @@
+The _Flagposts_ is the technique that consists of giving a summary of what the arguments will be about before developing them.

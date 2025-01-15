@@ -1,0 +1,21 @@
+---
+tags:
+  - Book
+---
+This is my [[Asimov]]'s book order to read:
+- **[[The end of eternity]]**
+- **I, robot**
+- **The rest of the robots**
+- **Robot visions**
+- **The caves of steel**
+- **The naked sun**
+- **The robots of dawn**
+- **Robots and empire**
+- **The complete robot**
+- **Prelude to Foundation**
+- **Forward the Foundation**
+- **Foundation**
+- **Foundation and empire**
+- **Second Foundation**
+- **Foundation’s edge**
+- **Foundation and earth**
