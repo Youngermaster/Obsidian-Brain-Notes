@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Entertainment Rating.md",
+                "file": "Book-Notes/The end of eternity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entertainment Rating"
+              "title": "The end of eternity"
             }
           },
           {
@@ -370,10 +370,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entertainment Rating.md"
+                "file": "Book-Notes/The end of eternity.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Entertainment Rating"
+              "title": "Outline of The end of eternity"
             }
           },
           {
@@ -424,8 +424,8 @@
   },
   "active": "07e98cc86269c0c2",
   "lastOpenFiles": [
-    "Media-Entertainment/Arcane (Season 2).md",
     "Entertainment Rating.md",
+    "Media-Entertainment/Arcane (Season 2).md",
     "Media-Entertainment/Fullmetal Alchemist Brotherhood.md",
     "Media-Entertainment/Rick and Morty.md",
     "Media-Entertainment/Assets/Pasted image 20250115002732.png",
