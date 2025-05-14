@@ -8,223 +8,119 @@
         "type": "tabs",
         "children": [
           {
-            "id": "026c2dc2c25fb962",
+            "id": "ad6a755cb3d0b7b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Machine Learning.md",
+                "file": "EAFIT/Compiladores/Compilers Second Edition Principles, Techniques, & Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Machine Learning"
+              "title": "Compilers Second Edition Principles, Techniques, & Tools"
             }
           },
           {
-            "id": "45554802c95498fc",
+            "id": "2a671b02547024e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book-Notes/Asimov books order.md",
+                "file": "EAFIT/Compiladores/Recursive-descent parsing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asimov books order"
+              "title": "Recursive-descent parsing"
             }
           },
           {
-            "id": "be7da18b839631f2",
+            "id": "dacf9893c417af50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading and Entertainment rating system.md",
+                "file": "EAFIT/Compiladores/FIRST and FOLLOW.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reading and Entertainment rating system"
+              "title": "FIRST and FOLLOW"
             }
           },
           {
-            "id": "7ae78d1a17db68ec",
+            "id": "8a5f6a4958029e3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book-Notes/The end of eternity.md",
+                "file": "EAFIT/Compiladores/Resumen Ejecutivo - First, Follow, LL(1), LR(0) y SLR(1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The end of eternity"
+              "title": "Resumen Ejecutivo - First, Follow, LL(1), LR(0) y SLR(1)"
             }
           },
           {
-            "id": "833dfa9e1ecd823f",
+            "id": "99cba2f6eeff3aee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book-Notes/Asimov.md",
+                "file": "EAFIT/Compiladores/Parcial 2025-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asimov"
+              "title": "Parcial 2025-1"
             }
           },
           {
-            "id": "a34577779c78e38c",
+            "id": "2aadcef110946f1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media-Entertainment/Big Hero Six.md",
+                "file": "EAFIT/Compiladores/Items and the LR(0) Automaton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big Hero Six"
+              "title": "Items and the LR(0) Automaton"
             }
           },
           {
-            "id": "db27b6769c44f122",
+            "id": "0d1247bb24c37a6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media-Entertainment/Arcane (Season 2).md",
+                "file": "EAFIT/Compiladores/Parcial 2024-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arcane (Season 2)"
+              "title": "Parcial 2024-1"
             }
           },
           {
-            "id": "d98f6c7a4fabbaf9",
+            "id": "eed3ffc4bcc31d09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media-Entertainment/Cyberpunk Edgerunners.md",
+                "file": "EAFIT/Compiladores/Parcial 2024-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cyberpunk Edgerunners"
-            }
-          },
-          {
-            "id": "054f07e05b926304",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Media-Entertainment/Fullmetal Alchemist Brotherhood.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fullmetal Alchemist Brotherhood"
-            }
-          },
-          {
-            "id": "baddddd7596a28a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book Rating.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Book Rating"
-            }
-          },
-          {
-            "id": "b47fff7301bdb171",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "367b054fb1cf8abb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Media-Entertainment/Monster.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Monster"
-            }
-          },
-          {
-            "id": "8dcebee5ecdc3f63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Media-Entertainment/Ping Pong the Animation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ping Pong the Animation"
-            }
-          },
-          {
-            "id": "da994bdc4f04f52d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "dcad50900329814a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Flagposts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Flagposts"
-            }
-          },
-          {
-            "id": "f135b242be2235f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book-Notes/Practical Stoicism. Your Action Guide On How To Implement The Stoic Philosophy Into Your Own Life.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Practical Stoicism. Your Action Guide On How To Implement The Stoic Philosophy Into Your Own Life"
+              "title": "Parcial 2024-2"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -243,7 +139,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -404,53 +301,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b47fff7301bdb171",
+  "active": "eed3ffc4bcc31d09",
   "lastOpenFiles": [
+    "parcial3-1588.pdf",
+    "EAFIT/Compiladores/Parcial 2024-1.md",
+    "parcial3-2534.pdf",
+    "EAFIT/Compiladores/Parcial 2024-2.md",
+    "EAFIT/Compiladores/Parcial 2025-1.md",
+    "EAFIT/Compiladores/Items and the LR(0) Automaton.md",
+    "parcial3-2534 1.pdf",
+    "icon.jpg",
     "GraphViewOld.png",
     "GraphView.png",
+    "Entertainment Rating.md",
+    "Book Rating.md",
+    "Test.md",
+    "Reading and Entertainment rating system.md",
+    "Pasted image 20250114232447.png",
+    "Pasted Image 20231220211532_615.png",
+    "FormalLanguagesAndCompilation-978-3-030-04879-2.pdf",
+    "EAFIT/Compiladores/LL(1) Grammars.md",
+    "EAFIT/Compiladores/Dragón.md",
+    "EAFIT/Compiladores/Resumen Ejecutivo - First, Follow, LL(1), LR(0) y SLR(1).md",
+    "EAFIT/Compiladores/Recursive-descent parsing.md",
+    "EAFIT/Compiladores/FIRST and FOLLOW.md",
+    "EAFIT/Compiladores/Compilers Second Edition Principles, Techniques, & Tools.md",
+    "EAFIT/Compiladores/Italianos.md",
+    "Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman-Compilers - Principles, Techniques, and Tools-Pearson_Addison Wesley (2006).pdf",
+    "EAFIT/Compiladores/Ejercicios Predictive Parsing Table.md",
+    "EAFIT/Compiladores/Predictive Parsing Algorithm.md",
+    "EAFIT/Compiladores/Untitled",
+    "EAFIT/AnalisisNumerico/Clases/Clase 1.md",
+    "EAFIT/Compiladores",
     "Media-Entertainment/Arcane (Season 2).md",
     "Book-Notes/The end of eternity.md",
-    "Entertainment Rating.md",
     "Media-Entertainment/Fullmetal Alchemist Brotherhood.md",
     "Media-Entertainment/Rick and Morty.md",
     "Media-Entertainment/Assets/Pasted image 20250115002732.png",
-    "Pasted image 20250114232447.png",
     "Media-Entertainment/Hunter x Hunter (2011).md",
     "Book-Notes/Batman War on Crime.md",
-    "Book Rating.md",
     "Book-Notes/Assets/BarmanWarOnCrime.png",
     "Book-Notes/Assets/PracticalStoicism.png",
     "Media-Entertainment/Ugly Americans.md",
     "Media-Entertainment/Assets/Pasted image 20250115001903.png",
-    "Reading and Entertainment rating system.md",
     "Media-Entertainment/Assets/Pasted image 20250115001010.png",
-    "Media-Entertainment/Assets/Pasted image 20250114234004.png",
-    "Pasted Image 20231220211532_615.png",
     "Media-Entertainment/Assets",
-    "Media-Entertainment/Devil May Cry The animated series.md",
-    "Media-Entertainment/Super Crooks.md",
-    "Media-Entertainment/Mortal Kombat (2021).md",
-    "Media-Entertainment/Big Hero Six.md",
-    "Media-Entertainment/Cyberpunk Edgerunners.md",
-    "Media-Entertainment/Monster.md",
-    "Media-Entertainment/Ping Pong the Animation.md",
-    "Media-Entertainment/Arcane (Season 1).md",
-    "Book-Notes/Asimov.md",
-    "Book-Notes/Aprende a Debatir Aplicando Las 3 Técnicas Básicas para Ganar un Argumento.md",
     "Media-Entertainment",
-    "Book-Notes/Practical Stoicism. Your Action Guide On How To Implement The Stoic Philosophy Into Your Own Life.md",
-    "Glossary/Flagposts.md",
-    "Book-Notes/Asimov books order.md",
-    "Hacking-Notes/Try Hack Me/Pre-Security/1. What is Networking.md",
-    "Hacking-Notes/Try Hack Me/Red Team Path/1. Red Team Fundamentals.md",
-    "Programming/Typescript",
-    "Languages Learning/German",
-    "Languages Learning/English",
-    "Languages Learning",
-    "icon.jpg",
-    "Excalidraw",
-    "Glossary",
-    "Courses/Platzi",
-    "Courses"
+    "Programming/Typescript"
   ]
 }
