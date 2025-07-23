@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EAFIT/Evaluación Financiera de Proyectos/Clase 1.md",
+                "file": "EAFIT/Evaluación Financiera de Proyectos/Clase 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 1"
+              "title": "Clase 2"
             }
           }
         ],
@@ -303,8 +303,12 @@
   },
   "active": "eed3ffc4bcc31d09",
   "lastOpenFiles": [
-    "EAFIT/Análisis de Riesgos/Clase 1.md",
+    "EAFIT/Evaluación Financiera de Proyectos/Clase 2 - Funciones Básicas en Excel.xlsx",
+    "EAFIT/Evaluación Financiera de Proyectos/~$Clase 2 - Funciones Básicas en Excel.xlsx",
     "EAFIT/Evaluación Financiera de Proyectos/Clase 1.md",
+    "EAFIT/Evaluación Financiera de Proyectos/Clase 2.md",
+    "EAFIT/Análisis de Riesgos/Clase 2.md",
+    "EAFIT/Análisis de Riesgos/Clase 1.md",
     "EAFIT/Evaluación Financiera de Proyectos",
     "EAFIT/Compiladores/Parcial 2024-2.md",
     "EAFIT/Análisis de Riesgos",
@@ -340,14 +344,10 @@
     "Media-Entertainment/Arcane (Season 2).md",
     "Book-Notes/The end of eternity.md",
     "Media-Entertainment/Fullmetal Alchemist Brotherhood.md",
-    "Media-Entertainment/Rick and Morty.md",
     "Media-Entertainment/Assets/Pasted image 20250115002732.png",
-    "Media-Entertainment/Hunter x Hunter (2011).md",
-    "Book-Notes/Batman War on Crime.md",
     "Book-Notes/Assets/BarmanWarOnCrime.png",
     "Book-Notes/Assets/PracticalStoicism.png",
     "Media-Entertainment/Assets/Pasted image 20250115001903.png",
-    "Media-Entertainment/Assets/Pasted image 20250115001010.png",
-    "Media-Entertainment/Assets"
+    "Media-Entertainment/Assets/Pasted image 20250115001010.png"
   ]
 }
