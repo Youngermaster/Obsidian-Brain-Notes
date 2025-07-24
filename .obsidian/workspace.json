@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EAFIT/Evaluación Financiera de Proyectos/Clase 2.md",
+                "file": "EAFIT/Formulación y Evaluación de Proyectos/Equilibra+.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 2"
+              "title": "Equilibra+"
             }
           }
         ],
@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d30c78c99e3f515a",
@@ -303,20 +304,26 @@
   },
   "active": "eed3ffc4bcc31d09",
   "lastOpenFiles": [
+    "EAFIT/Formulación y Evaluación de Proyectos/Selección de proyecto.md",
+    "EAFIT/Formulación y Evaluación de Proyectos/Sistema de Marco Lógico.md",
+    "EAFIT/Formulación y Evaluación de Proyectos/Equilibra+.md",
+    "EAFIT/Compiladores/Recursive-descent parsing.md",
+    "EAFIT/Compiladores/Items and the LR(0) Automaton.md",
+    "EAFIT/Compiladores/Parcial 2024-1.md",
+    "EAFIT/Compiladores/Resumen Ejecutivo - First, Follow, LL(1), LR(0) y SLR(1).md",
+    "EAFIT/Evaluación Financiera de Proyectos/Clase 2.md",
+    "EAFIT/Formulación y Evaluación de Proyectos",
     "EAFIT/Evaluación Financiera de Proyectos/Clase 2 - Funciones Básicas en Excel.xlsx",
     "EAFIT/Evaluación Financiera de Proyectos/~$Clase 2 - Funciones Básicas en Excel.xlsx",
     "EAFIT/Evaluación Financiera de Proyectos/Clase 1.md",
-    "EAFIT/Evaluación Financiera de Proyectos/Clase 2.md",
     "EAFIT/Análisis de Riesgos/Clase 2.md",
     "EAFIT/Análisis de Riesgos/Clase 1.md",
     "EAFIT/Evaluación Financiera de Proyectos",
     "EAFIT/Compiladores/Parcial 2024-2.md",
     "EAFIT/Análisis de Riesgos",
     "parcial3-1588.pdf",
-    "EAFIT/Compiladores/Parcial 2024-1.md",
     "parcial3-2534.pdf",
     "EAFIT/Compiladores/Parcial 2025-1.md",
-    "EAFIT/Compiladores/Items and the LR(0) Automaton.md",
     "parcial3-2534 1.pdf",
     "icon.jpg",
     "GraphViewOld.png",
@@ -330,20 +337,14 @@
     "FormalLanguagesAndCompilation-978-3-030-04879-2.pdf",
     "EAFIT/Compiladores/LL(1) Grammars.md",
     "EAFIT/Compiladores/Dragón.md",
-    "EAFIT/Compiladores/Resumen Ejecutivo - First, Follow, LL(1), LR(0) y SLR(1).md",
-    "EAFIT/Compiladores/Recursive-descent parsing.md",
     "EAFIT/Compiladores/FIRST and FOLLOW.md",
     "EAFIT/Compiladores/Compilers Second Edition Principles, Techniques, & Tools.md",
     "EAFIT/Compiladores/Italianos.md",
     "Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman-Compilers - Principles, Techniques, and Tools-Pearson_Addison Wesley (2006).pdf",
     "EAFIT/Compiladores/Ejercicios Predictive Parsing Table.md",
     "EAFIT/Compiladores/Predictive Parsing Algorithm.md",
-    "EAFIT/Compiladores/Untitled",
     "EAFIT/AnalisisNumerico/Clases/Clase 1.md",
-    "EAFIT/Compiladores",
     "Media-Entertainment/Arcane (Season 2).md",
-    "Book-Notes/The end of eternity.md",
-    "Media-Entertainment/Fullmetal Alchemist Brotherhood.md",
     "Media-Entertainment/Assets/Pasted image 20250115002732.png",
     "Book-Notes/Assets/BarmanWarOnCrime.png",
     "Book-Notes/Assets/PracticalStoicism.png",
