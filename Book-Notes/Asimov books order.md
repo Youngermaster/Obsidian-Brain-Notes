@@ -1,6 +1,7 @@
 ---
 tags:
   - Book
+  - SciFi
 ---
 This is my [[Asimov]]'s book order to read:
 - **[[The end of eternity]]**

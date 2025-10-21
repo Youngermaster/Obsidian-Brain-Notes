@@ -2,7 +2,7 @@
 
 ### 🔸 Definición:
 
-El conjunto **FIRST(α)** para una cadena α (que puede ser un símbolo o una secuencia de símbolos) es el conjunto de **símbolos terminales** que pueden **aparecer primero** en alguna derivación desde α.  
+El conjunto **[[FIRST]](α)** para una cadena α (que puede ser un símbolo o una secuencia de símbolos) es el conjunto de **símbolos terminales** que pueden **aparecer primero** en alguna derivación desde α.  
 También incluye **ε** si α puede derivar la cadena vacía.
 
 ---

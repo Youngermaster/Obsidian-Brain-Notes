@@ -1,6 +1,7 @@
 ---
 tags:
   - Book
+  - SciFi
 Author:
   - Isaac Asimov
 Rating: ⭐️⭐️⭐️

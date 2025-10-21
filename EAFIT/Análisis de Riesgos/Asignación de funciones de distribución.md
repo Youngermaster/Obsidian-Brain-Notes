@@ -1,0 +1,1 @@
+Este método permite tener una variable del proyecto como variable Aleatoria, con el fin de simular los proyectos y sus resultados ante cambios en esas variables.

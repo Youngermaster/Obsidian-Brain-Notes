@@ -1,13 +1,12 @@
-
 ### 💡 Opciones de nombre (fáciles de pronunciar en español)
 
-|Propuesta|Idea‑fuerza / Slogan|
-|---|---|
-|**ActivaVida**|“Movimiento, mente y salud en un solo lugar”|
-|**Equilibra+**|“Tecnología que te mantiene en pie”|
-|**VitalMayor**|“Bienestar integral para la nueva edad dorada”|
-|**Reflejo Ágil**|“Entrena tus reflejos, protege tu futuro”|
-|**Bienestar 360**|“Datos, ejercicio y acompañamiento en red”|
+| Propuesta         | Idea‑fuerza / Slogan                           |
+| ----------------- | ---------------------------------------------- |
+| **ActivaVida**    | “Movimiento, mente y salud en un solo lugar”   |
+| **Equilibra+**    | “Tecnología que te mantiene en pie”            |
+| **VitalMayor**    | “Bienestar integral para la nueva edad dorada” |
+| **Reflejo Ágil**  | “Entrena tus reflejos, protege tu futuro”      |
+| **Bienestar 360** | “Datos, ejercicio y acompañamiento en red”     |
 
 > Personalmente recomiendo **ActivaVida**: suena positivo, no usa anglicismos y funciona tanto para la línea de productos como para el servicio digital.
 
@@ -281,3 +280,29 @@ _Ecosistema de dispositivos lúdicos y analítica clínica para adultos mayores_
 - ¡Únete a la misión de mantener a nuestros mayores activos y seguros!
 
 ---
+
+### **Proyecto Vs Estrategia Organizacional — “ActivaVida” o Equilibra+ (luego decidimos)**
+
+| **Componentes**                 | **Preguntas**                                              | **Detalles para ActivaVida**                                                                                                                                                                                                                              |
+| ------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **PERSPECTIVA (POR QUÉ)**       |                                                            |                                                                                                                                                                                                                                                           |
+| **Antecedentes de negocio**     | ¿Por qué debemos hacer el proyecto?                        | - Altas tasas de caídas (1 de 3 mayores/año) y costos sanitarios ≈ 1 % PIB.- Mercado de prevención y tele‑rehabilitación crece > 13 % CAGR en LatAm.                                                                                                      |
+|                                 | ¿Quién es el cliente/usuario?                              | • Adultos 60+ activos o con riesgo de caídas.• Cuidadores/familia.• Clínicas, fisioterapeutas, EPS/aseguradoras.                                                                                                                                          |
+|                                 | ¿Cuál es la perspectiva de negocio y la motivación?        | Envejecimiento poblacional (20 % mayores 60+ en 2040), necesidad de soluciones domiciliarias y datos clínicos objetivos.                                                                                                                                  |
+|                                 | ¿Cuál es su necesidad?                                     | Ejercicios de equilibrio/reflejos motivadores, seguimiento remoto y evidencia objetiva para planes de cuidado.                                                                                                                                            |
+|                                 | ¿Cómo la satisfaremos?                                     | Ecosistema modular de dispositivos BLE + app React Native + portal analítico SaaS.                                                                                                                                                                        |
+|                                 | ¿Cuál es la oportunidad de negocio?                        | TAM ≈ USD 500 M en Colombia; pocos competidores integran hardware low‑cost con analítica clínica y gamificación.                                                                                                                                          |
+| **Objetivo de negocio**         | ¿Qué queremos conseguir?                                   | • 10 000 usuarios activos y 50 clínicas aliadas en 24 meses.• Ingresos anuales > USD 2 M al año 2.• Reducir 15 % caídas y mejorar 20 % tiempos‑reacción en usuarios.                                                                                      |
+| **Concepto estratégico**        | ¿Por qué el proyecto soporta la estrategia de la compañía? | Refuerza posicionamiento como plataforma de “salud activa” para adultos mayores, combinando IoT asequible y analítica de datos.                                                                                                                           |
+|                                 | ¿Cuál es el principio de solución estratégico?             | **Device‑as‑a‑Service**: kits arrendados o vendidos + suscripción app/analytics.                                                                                                                                                                          |
+|                                 | ¿Cuál es la idea competitiva estratégica?                  | Hardware modular low‑cost + gamificación social + reportes clínicos automatizados (diferenciación costo‑valor frente a plataformas clínicas premium).                                                                                                     |
+| **POSICIÓN (QUÉ)**              |                                                            |                                                                                                                                                                                                                                                           |
+| **Definición de producto**      | ¿Qué vamos a producir?                                     | Kits físicos (banda IMU, disco de equilibrio, pads táctiles, LED hub) + app móvil + backend analítico.                                                                                                                                                    |
+|                                 | ¿Qué tipo de producto es?                                  | Solución integrada **hardware + software + servicio** (salud digital).                                                                                                                                                                                    |
+|                                 | Concepto de operación y principales características        | Plug‑and‑play BLE; retos lúdicos; feedback háptico/visual; dashboards de equilibrio y adherencia; conectividad cloud.                                                                                                                                     |
+| **Ventaja competitiva / Valor** | ¿Por qué es mejor que competidores/proceso actual?         | - Precio << plataformas clínicas (USD 200‑300 vs > 5 000).- Métricas objetivas (sway, latencia) que apps solo‑software no capturan.- Gamificación social eleva adherencia vs ejercicios tradicionales.                                                    |
+|                                 | ¿Por qué el cliente lo compraría?                          | Reduce riesgo de caídas, ofrece datos para seguro/EPS y motiva al usuario con juegos y rankings.                                                                                                                                                          |
+|                                 | ¿Cuál es el valor para nosotros?                           | Márgenes 40 % en hardware + ingresos recurrentes por suscripción (USD 4‑15/mes). Datos anónimos ampliarán cartera B2B (analytics para EPS).                                                                                                               |
+| **Criterios de éxito / falla**  | Expectativas y dimensiones del éxito                       | - Usuarios activos mensuales (MAU) ≥ 8 000 al mes 18.- Retención 30‑días ≥ 60 %.- KPI clínico: RMS sway ↓ 15 % promedio tras 6 meses de uso.                                                                                                              |
+|                                 | ¿Cómo mediremos el éxito?                                  | Dashboard financiero (ARR), analíticas de uso y estudios clínicos pre/post.                                                                                                                                                                               |
+|                                 | ¿Qué puede ir mal? Principales riesgos                     | • Retrasos en certificación Invima ⟶ entrada tardía al mercado.• Baja adopción por barreras tecnológicas en seniors.• Fugas de datos o incumplimiento de privacidad ⟶ multas/confianza perdida.• Fallas de hardware que afecten la percepción de calidad. |

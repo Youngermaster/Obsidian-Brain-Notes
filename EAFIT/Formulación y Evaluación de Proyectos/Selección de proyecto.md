@@ -1,4 +1,3 @@
-
 ## Datos de los diferentes proyectos
 
 Datos de preparación de proyectos para respaldar la oportunidad.
