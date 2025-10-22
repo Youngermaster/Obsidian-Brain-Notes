@@ -8,125 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad6a755cb3d0b7b7",
+            "id": "5228f9adcc45295d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EAFIT/Compiladores/Compilers Second Edition Principles, Techniques, & Tools.md",
+                "file": "EAFIT/Tópicos de Telemática/Preparación Parcial 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compilers Second Edition Principles, Techniques, & Tools"
+              "title": "Preparación Parcial 1"
             }
           },
           {
-            "id": "2a671b02547024e9",
+            "id": "5dc61bc9886ff097",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EAFIT/Compiladores/Recursive-descent parsing.md",
+                "file": "EAFIT/Tópicos de Telemática/Preparación Parcial 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recursive-descent parsing"
-            }
-          },
-          {
-            "id": "dacf9893c417af50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAFIT/Compiladores/FIRST and FOLLOW.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FIRST and FOLLOW"
-            }
-          },
-          {
-            "id": "8a5f6a4958029e3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAFIT/Compiladores/Resumen Ejecutivo - First, Follow, LL(1), LR(0) y SLR(1).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resumen Ejecutivo - First, Follow, LL(1), LR(0) y SLR(1)"
-            }
-          },
-          {
-            "id": "99cba2f6eeff3aee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAFIT/Compiladores/Parcial 2025-1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Parcial 2025-1"
-            }
-          },
-          {
-            "id": "2aadcef110946f1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAFIT/Compiladores/Items and the LR(0) Automaton.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Items and the LR(0) Automaton"
-            }
-          },
-          {
-            "id": "0d1247bb24c37a6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAFIT/Compiladores/Parcial 2024-1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Parcial 2024-1"
-            }
-          },
-          {
-            "id": "bfa88bbd80ce1866",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "125518e8ba0aca8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book-Notes/Asimov books order.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Asimov books order"
+              "title": "Preparación Parcial 2"
             }
           },
           {
@@ -135,86 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EAFIT/Evaluación Ambiental de Proyectos/Preparación Parcial.md",
+                "file": "EAFIT/Tópicos de Telemática/Notas rápidas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Preparación Parcial"
+              "title": "Notas rápidas"
             }
           },
           {
-            "id": "d9fc48b3a0f51c95",
+            "id": "2440a91998d30ab5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAFIT/Compiladores/Parcial 2 - 4382-sol.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Parcial 2 - 4382-sol"
-            }
-          },
-          {
-            "id": "6d66fb67412d76b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAFIT/Formulación y Evaluación de Proyectos/Sistema de Marco Lógico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sistema de Marco Lógico"
-            }
-          },
-          {
-            "id": "e4a4c057a5d9f226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAFIT/Análisis de Riesgos/Clase 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 2"
-            }
-          },
-          {
-            "id": "0f4555a2189b6ee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAFIT/Compiladores/Parcial 1 2024-1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Parcial 1 2024-1"
-            }
-          },
-          {
-            "id": "0e1908496407b20a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EAFIT/Compiladores/Parcial 1 2024-2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Parcial 1 2024-2"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -398,8 +244,12 @@
   },
   "active": "32e9f6000fe1956d",
   "lastOpenFiles": [
-    "EAFIT/Evaluación Ambiental de Proyectos/Ley 99 de 1993 – Licencia Ambiental en Colombia.md",
+    "EAFIT/Tópicos de Telemática/Preparación Parcial 2.md",
+    "EAFIT/Tópicos de Telemática/Notas rápidas.md",
+    "EAFIT/Tópicos de Telemática/Preparación Parcial 1.md",
     "EAFIT/Evaluación Ambiental de Proyectos/Preparación Parcial.md",
+    "EAFIT/Tópicos de Telemática",
+    "EAFIT/Evaluación Ambiental de Proyectos/Ley 99 de 1993 – Licencia Ambiental en Colombia.md",
     "EAFIT/Compiladores/LL(1) Grammars.md",
     "EAFIT/Compiladores/Parcial 2 - 4382-sol.md",
     "EAFIT/Compiladores/Items and the LR(0) Automaton.md",
@@ -427,9 +277,6 @@
     "Reading and Entertainment rating system.md",
     "Pasted image 20250114232447.png",
     "Pasted Image 20231220211532_615.png",
-    "EAFIT/Análisis de Riesgos/Asignación de funciones de distribución.md",
-    "EAFIT/Evaluaciones.md",
-    "EAFIT/Formulación y Evaluación de Proyectos/Árbol de Problemas.md",
     "EAFIT/Evaluación Financiera de Proyectos/La Miel.xlsx",
     "EAFIT/Evaluación Financiera de Proyectos/~$La Miel.xlsx",
     "EAFIT/Evaluación Ambiental de Proyectos",
@@ -437,7 +284,6 @@
     "EAFIT/Evaluación Financiera de Proyectos/Clase 2 - Funciones Básicas en Excel.xlsx",
     "EAFIT/Evaluación Financiera de Proyectos/~$Clase 2 - Funciones Básicas en Excel.xlsx",
     "EAFIT/Evaluación Financiera de Proyectos",
-    "EAFIT/Análisis de Riesgos",
     "icon.jpg",
     "GraphViewOld.png",
     "GraphView.png",
