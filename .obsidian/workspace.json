@@ -53,14 +53,18 @@
             "id": "2440a91998d30ab5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "EAFIT/Formulación y Evaluación de Proyectos/Equilibra+.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Equilibra+"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -242,10 +246,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32e9f6000fe1956d",
+  "active": "2440a91998d30ab5",
   "lastOpenFiles": [
-    "EAFIT/Tópicos de Telemática/Notas rápidas.md",
     "EAFIT/Tópicos de Telemática/Cómo crear AWS Glue y Amazon Athena desde cero.md",
+    "EAFIT/Tópicos de Telemática/Notas rápidas.md",
     "EAFIT/Tópicos de Telemática/Preparación Parcial 2.md",
     "EAFIT/Tópicos de Telemática/Preparación Parcial 1.md",
     "EAFIT/Evaluación Ambiental de Proyectos/Preparación Parcial.md",
